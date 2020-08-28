@@ -1,4 +1,4 @@
-### Hi , I'm Emogene -  [Portfolio][https://elukoye.github.io/new_portfolio/] 👋
+### Hi there, I'm Emogene - aka [Elukoye][https://elukoye.github.io/new_portfolio/] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://elukoye.github.io/new_portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Elukoye1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Elukoye1)
@@ -15,24 +15,26 @@
 ### Connect with me:
 
 [<img align="left" alt="elukoye'S webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][https://elukoye.github.io/new_portfolio/]
-[<img align="left" alt="twitter url" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Elukoye1]
-[<img align="left" alt="LinkedIn url" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/elukoye/]
-[<img align="left" alt=" Medium url" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@lukoyedith]
+[<img align="left" alt="Elukoye1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Elukoye  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/elukoye/]
+[<img align="left" alt="Elukoye  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@lukoyedith]
 
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.pngs" />][visualstudiocode]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][CSS3]
-[<img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][PostreSQL]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][GitHub]
-[<img align="left" alt="Rails" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][Rails]
-[<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][Ruby]
-[<img align="left" alt="BootStrap" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][BootStrap]
-[<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][Heroku]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][webdevplaylist]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][webdevplaylist]
+[<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
