@@ -77,8 +77,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Elukoye Github Stats" src="https://github-readme-stats-git-master.elukoye.vercel.app
-/api?username=Elukoye&show_icons=true&hide_border=true" />
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elukoye)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
