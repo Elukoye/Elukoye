@@ -52,8 +52,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
-- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide.](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) -->
+ [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
+- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide.](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) 
 
 <!-- BLOG-POST-LIST:END -->
 
