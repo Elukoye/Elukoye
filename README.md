@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="elukoye'S webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][https://elukoye.github.io/new_portfolio/]
-[<img align="left" alt="Elukoye1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Elukoye  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/elukoye/]
-[<img align="left" alt="Elukoye  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@lukoyedith]
+[<img align="left" alt="elukoye'S webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://elukoye.github.io/new_portfolio/)
+[<img align="left" alt="Elukoye1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Elukoye1)
+[<img align="left" alt="Elukoye  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elukoye/)
+[<img align="left" alt="Elukoye  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@lukoyedith)
 
 
 <br />
