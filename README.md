@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][visualstudiocode]
+[<img align="left" alt="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.pngs" />][visualstudiocode]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][CSS3]
 [<img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />][PostreSQL]
