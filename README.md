@@ -1,6 +1,6 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
 
-![PyPI - Status](https://img.shields.io/badge?label=Looking%20for%20new%20job%20opportunities-color=important&label=Status&style=for-the-badge)
+[![PyPI - Status](https://img.shields.io/website?label=Looking For New Opportunities&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 
 ## Check out my Portfolio!
 
