@@ -1,15 +1,16 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
 
+## Check Out My Work!
+
 [![Website](https://img.shields.io/website?label=elukoye.github.io/new_portfolio/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://elukoye.github.io/new_portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Elukoye1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Elukoye1)
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [Personal Project][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a [PicToCode](https://adoring-meitner-cafe65.netlify.app/)!
+- 🌱 I’m growing as a Software Developer and building strong tech skills each day🤣
 - 👯 I’m looking to growing as a Software Developer
-- 🥅 2020 Goals: Give atleast 3 tech talks.
-- ⚡ Fun fact: I love to watching TED Ex Talks.
+- 🥅 2020 Goals: Grow my software dveloper skils by working for a company with  a great cause as as Full-stack Developer and deliver at least 3 Tech talks.
+- ⚡ Fun fact: I love watching TED Ex Talks.
 
 
 ### Connect with me:
