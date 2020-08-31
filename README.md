@@ -1,6 +1,6 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
 
-[![PyPI - Status](https://img.shields.io/badge/STATUS-Looking%20For%20New%20Job%20Opportunities-red]()
+[![PyPI - Status](https://img.shields.io/badge/STATUS-Looking%20For%20New%20Job%20Opportunities-red)]()
 
 ## Check out my Portfolio!
 
@@ -24,11 +24,6 @@
 
 
 <br />
-
-### Most Used Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elukoye)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br />
 <br />
