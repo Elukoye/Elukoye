@@ -1,6 +1,6 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Elukoye1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Elukoye1)
+![PyPI - Status](https://img.shields.io/pypi/status/Looking%20for%20New%20Opportunities?color=important&label=Status&style=for-the-badge)
 
 ## Check out my Portfolio!
 
