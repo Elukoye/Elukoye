@@ -1,6 +1,8 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
 
-## Check Out My Work!
+[badge](https://img.shields.io/badge/STATUS-Looking%20for%20new%20job%20opportunities-important)
+
+## Check out my Portfolio!
 
 [![Website](https://img.shields.io/website?label=elukoye.github.io/new_portfolio/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://elukoye.github.io/new_portfolio/)
 
