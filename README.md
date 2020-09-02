@@ -8,11 +8,11 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [PicToCode](https://adoring-meitner-cafe65.netlify.app/)!
-- 🌱 I’m growing as a Software Developer and building strong tech skills each day🤣
-- 👯 I’m looking to growing as a Software Developer
-- 🥅 2020 Goals: Grow my software dveloper skils by working for a company with  a great cause as as Full-stack Developer and deliver at least 3 Tech talks.
-- ⚡ Fun fact: I love watching TED Ex Talks.
+- 🔭 I’m currently working on this revolutionary app [PicToCode](https://adoring-meitner-cafe65.netlify.app/)!
+- 🌱  My next challenge is in developing APIs and backend for apps🤣.
+- 👯 I’m looking to grow my skills in Ruby and JavaScript.
+- 🥅 2020 Goals: Work for a company with a great cause as a Full-stack Developer and deliver 3 Tech talks.
+- ⚡ Fun fact: I love watching TEDx Talks.
 
 
 ### Connect with me:
