@@ -1,6 +1,5 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
-
-[![PyPI - Status](https://img.shields.io/badge/STATUS-Software%20Intern%20-%20%Clyn20App-red)]()
+Software Intern -Clyn App
 
 ## Check out my Portfolio!
 
@@ -8,7 +7,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on this revolutionary app [TeachYourselfcs](https://teachyourselfcs.com/)!
+- 🔭 I’m currently working on [TeachYourselfcs](https://teachyourselfcs.com/)!
 - 🌱  My next challenge is in developing APIs and backend for apps🤣.
 - 👯 I’m looking to grow my skills in Ruby and JavaScript.
 - 🥅 2020 Goals: Work for a company with a great cause as a Full-stack Developer and deliver 3 Tech talks.
