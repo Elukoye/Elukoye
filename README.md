@@ -1,11 +1,11 @@
 ### Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
-Software Intern -Clyn App
+Software Developer -Clyn App
 
 ## Check out my Portfolio!
 
 [![Website](https://img.shields.io/website?label=http://elukoye.codes/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://elukoye.codes/)
 
-## I'm a Developer!
+## I'm  a Software Developer!
 
 - 🔭 I’m currently working on [TeachYourselfcs](https://teachyourselfcs.com/)!
 - 🌱  My next challenge is in developing APIs and backend for apps🤣.
