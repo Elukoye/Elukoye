@@ -7,7 +7,7 @@
 ### Activities:
 - 🔭 I’m currently working on [TeachYourselfcs](https://teachyourselfcs.com/) and contributing to Open Source.
 - 🌱  My next challenge is in learning Cloud Computing.
-- 👯 I’m looking to grow my skills coding.
+- 👯 I’m looking to grow my skills in coding.
 - ⚡ Fun fact:It took less code to send a man to the moon than to run a smartphone
 
 
