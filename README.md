@@ -5,11 +5,10 @@
 [![Website](https://img.shields.io/website?label=http://elukoye.codes/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://elukoye.codes/)
 
 ### Activities:
-- 🔭 I’m currently working on [TeachYourselfcs](https://teachyourselfcs.com/)!
-- 🌱  My next challenge is in developing APIs and backend for apps🤣.
-- 👯 I’m looking to grow my skills in Ruby and JavaScript.
-- 🥅 2020 Goals: Work for a company with a great cause as a Full-stack Developer and deliver 3 Tech talks.
-- ⚡ Fun fact: I love watching TEDx Talks.
+- 🔭 I’m currently working on [TeachYourselfcs](https://teachyourselfcs.com/) and contributing to Open Source.
+- 🌱  My next challenge is in learning Cloud Computing.
+- 👯 I’m looking to grow my skills coding.
+- ⚡ Fun fact:It took less code to send a man to the moon than to run a smartphone
 
 
 ### Connect with me:
