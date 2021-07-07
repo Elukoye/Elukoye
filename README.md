@@ -46,8 +46,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Built PicToCode App in [Microverse first Hackathon](https://github.com/Elukoye/PicToCode)
-2. 🗣 Contributed to [Awesome-Microverse-Student-Articles](https://github.com/Elukoye/Awesome-Microverse-Student-Articles)
+1. 🐛 Fix Bugs in [PublicLab Open Source Project](https://github.com/publiclab/plots2)  
+2. 💪 Built PicToCode App in [Microverse first Hackathon](https://github.com/Elukoye/PicToCode)
+3. 🗣 Contributed to [Awesome-Microverse-Student-Articles](https://github.com/Elukoye/Awesome-Microverse-Student-Articles)
 
 <!--END_SECTION:activity-->
 
