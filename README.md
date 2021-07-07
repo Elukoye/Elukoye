@@ -33,10 +33,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
-- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide.](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) 
 - [How to connect a Rails 6+ App to PostgreSQL and deploy to Heroku in a development environment using WSL.](https://lukoyedith.medium.com/how-to-set-up-postgresql-in-rails-6-in-a-linux-kali-environment-c6d60501100c)
 - [How Does AWS Route 53 Really Work?](https://lukoyedith.medium.com/how-does-aws-route-53-really-work-13f3a90701ec)
+- [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
+- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide.](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) 
 
 <!-- BLOG-POST-LIST:END -->
 
