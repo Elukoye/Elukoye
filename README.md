@@ -1,5 +1,5 @@
 ## Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
-### I'm a Software Developer @ Clyn
+### I'm a Software Developer Intern @ Clyn
 
 ### Check out my Portfolio!
 [![Website](https://img.shields.io/website?label=http://elukoye.codes/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://elukoye.codes/)
