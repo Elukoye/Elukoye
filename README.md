@@ -5,9 +5,9 @@
 [![Website](https://img.shields.io/website?label=http://elukoye.codes/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://elukoye.codes/)
 
 ### Activities:
-- 🔭 I’m currently working on [Cloud DevOps Nanodegree](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991) and [ Networking and Cybersecutiry](https://www.acwict.org/work/digital-skills-and-computer-science-education/)
-- 🌱  My next challenge is in learning Cloud Computing.
-- 👯 I’m looking to grow my skills in Algorithm and Data Structures.
+- 🔭 I’m currently working on learning JavaScript.
+- 🌱  My next challenge is in learning Azure.
+- 👯 I’m looking to grow my skills in DevOps.
 - ⚡ Fun fact:It took less code to send a man to the moon than to run a smartphone.
 
 
