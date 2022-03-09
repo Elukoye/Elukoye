@@ -1,4 +1,4 @@
-## Hi there, I'm Emogene - aka [Elukoye](https://elukoye.github.io/new_portfolio/) 👋
+## Hi there, I'm Emogene 👋
 ### I'm a Software Developer Intern @ Clyn
 
 
