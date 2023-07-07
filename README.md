@@ -1,12 +1,12 @@
 ## Hi there, I'm Emogene 👋
-### I'm a Software Developer Intern @ Clyn
+### I'm a Scrum Master/Usability Tester @ Clyn LLC
 
 
 ### Activities:
-- 🔭 I’m currently working on learning JavaScript.
-- 🌱  My next challenge is in learning Azure.
-- 👯 I’m looking to grow my skills in DevOps.
-- ⚡ Fun fact:It took less code to send a man to the moon than to run a smartphone.
+- 🔭 I’m currently working on learning Scrum.
+- 🌱  My next challenge is in learning Product management.
+- 👯 I’m looking to grow my skills in Usability Testing.
+- ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 
 ### 📕 Some of the posts in my blog:
