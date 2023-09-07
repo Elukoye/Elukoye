@@ -1,11 +1,11 @@
 ## Hi there, I'm Emogene 👋
-### I'm a Scrum Master/Usability Tester @ Clyn LLC
+### I help iplement an Agile Culture within organizations. 
 
 
 ### Activities:
-- 🔭 I’m currently working on learning Scrum.
+- 🔭 I’m currently  learning what it really means to be agile. 
 - 🌱  My next challenge is in learning Product management.
-- 👯 I’m looking to grow my skills in Usability Testing.
+- 👯 I’m looking to grow my skills in  Testing.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 
