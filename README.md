@@ -1,11 +1,11 @@
 ## Hi there, I'm Emogene 👋
-### I help iplement an Agile Culture within organizations. 
+### I help drive value through teams by encouraging an agile culture,  lean thinking and collaboration within organizations. 
 
 
 ### Activities:
-- 🔭 I’m currently  learning what it really means to be agile. 
-- 🌱  My next challenge is in learning Product management.
-- 👯 I’m looking to grow my skills in  Testing.
+- 🔭 I’m currently  learning system thinking and agility. 
+- 🌱  My next challenge is learning how XP works.
+- 👯 I’m looking to grow my skills in Continuous Integration .
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 
